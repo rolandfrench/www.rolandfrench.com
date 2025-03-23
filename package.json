@@ -1,0 +1,22 @@
+{
+  "name": "www.rolandfrench.com",
+  "version": "1.0.0",
+  "description": "Roland's Site",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolandfrench/www.rolandfrench.com.git"
+  },
+  "author": "Roland French",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolandfrench/www.rolandfrench.com/issues"
+  },
+  "homepage": "https://github.com/rolandfrench/www.rolandfrench.com#readme",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
