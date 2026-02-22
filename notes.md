@@ -17,7 +17,12 @@ Development Process Notes for www.rolandfrench.com
     - `git add .`
 - To add a specific change to a commit.
     - `git add filename`
-
+- To commit your changes into a changeset.
+    - `git commit -m "notes on the commit"`
+- Get latest from git before pushing changes upstream.
+    - `git pull origin main`
+- To push your commited changes up to github.
+    - `git push origin main`
 
 
 ## Amazon Web Services
